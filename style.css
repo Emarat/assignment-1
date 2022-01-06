@@ -34,6 +34,7 @@ body{
 
 .text-align{
     text-align : center;
+    margin-bottom: 50px;
 }
 .shadow{
     box-shadow: 10px 10px 50px rgb(106, 109, 101);
@@ -58,5 +59,10 @@ body{
     background-image: url(images/shapes/shape-1.png);
     background-size: 15%;
     background-repeat: no-repeat;
-    background-position: 85% 120%;
+    background-position: 85% 115%;
+}
+.footer{
+    text-align: center;
+    background-color: rgb(123, 163, 123);
+    border-radius: 5px;
 }
