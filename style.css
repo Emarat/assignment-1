@@ -1,5 +1,9 @@
 h1{
     font-size: 45px;
+    border-left: 3px solid;
+    border-image: linear-gradient(yellow, violet);
+    border-image-slice: 1;
+    
 }
 .change-color{
     color: rgb(228, 97, 10);
