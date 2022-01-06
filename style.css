@@ -29,3 +29,14 @@ body{
 .text-align{
     text-align : center;
 }
+.shadow{
+    box-shadow: 10px 10px 50px rgb(106, 109, 101);
+    width: 50%;
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-bottom: 5%;
+    margin-top: 2%;
+    padding-left: 20px;
+    border-radius: 20px;
+    background-color: rgb(233, 206, 206);
+}
