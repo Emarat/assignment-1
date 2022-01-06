@@ -7,7 +7,7 @@ h1{
 body{
     font-family: 'Luxurious Roman', cursive;
 }
-section{
+.flexible-container{
     display: flex;
 }
 .half-width{
